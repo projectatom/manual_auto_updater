@@ -12,7 +12,30 @@ namespace ManualAutoUpdater {
 	internal static class Program {
 		private static readonly WebClient WebClient = new WebClient();
 
-		private static readonly string UpdatesUrl = "https://pastebin.com/raw/31fsNTk7";
+		private const string UpdatesUrl = "https://raw.githubusercontent.com/projectatom/manual_auto_updater/divinity/updates.json";
+
+		private static string ProfileString = "%ProfilesFolder%/modsettings.lsx";
+
+		private static readonly string ProfilesPath = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments) +
+		                                               "/Larian Studios/Divinity Original Sin 2 Definitive Edition/PlayerProfiles/";
+
+		private static string ReplaceVariables(string str) {
+			if (str.Contains("%ProfilesFolder%")) {
+				var folder = Path.GetDirectoryName(ProfilesPath);
+				if (!Directory.Exists(folder)) throw new Exception("Запусти Дивинити хотя бы один раз и создай там профиль.");
+
+				var profileNames = Directory.EnumerateDirectories(folder).Select(path => Path.GetFileName(path)).ToArray();
+				if (!profileNames.Any()) throw new Exception("Запусти Дивинити хотя бы один раз и создай там профиль.");
+
+				var profileNamesWithoutDebug = profileNames.Where(profName => !profName.Contains("Debug")).ToArray();
+
+				var name = profileNamesWithoutDebug.Any() ? profileNamesWithoutDebug[0] : profileNames[0];
+
+				return Path.GetFullPath(str.Replace("%ProfilesFolder%", $@"{ProfilesPath}/{name}/"));
+			}
+
+			return str;
+		}
 
 		private static void Main() {
 			Console.OutputEncoding = Encoding.UTF8;
@@ -62,6 +85,7 @@ namespace ManualAutoUpdater {
 
 		public static void DownloadFile(string url, string fileName) {
 			Console.WriteLine($"Скачиваю {url}");
+			fileName = ReplaceVariables(fileName);
 			var directoryName = Path.GetDirectoryName(fileName);
 			if (directoryName != null) Directory.CreateDirectory(directoryName);
 			WebClient.DownloadFile(url, fileName);
@@ -96,4 +120,8 @@ namespace ManualAutoUpdater {
 			return obj != null && obj.GetType() == typeof(FileWithUrl) && Name.Equals(((FileWithUrl) obj).Name);
 		}
 	}
+
+	// internal enum Type {
+	// 	Basic, Profile		
+	// }
 }
