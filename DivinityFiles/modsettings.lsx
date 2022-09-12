@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+  <header version="2" />
+  <version major="3" minor="6" revision="9" build="0" />
+  <region id="ModuleSettings">
+    <node id="root">
+      <children>
+        <node id="ModOrder">
+          <children>
+            <node id="Module">
+              <attribute id="UUID" value="1301db3d-1f54-4e98-9be5-5094030916e4" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="39dbf31c-2218-4e1a-99f8-23fefd5d1ff0" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="01888044-40fa-4250-8934-add840ac23b7" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="7e737d2f-31d2-4751-963f-be6ccc59cd0c" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="4bcb0f56-d4dd-4241-9285-0f5710913edb" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="faac3525-c5b3-580d-6ef2-ed9797f68fb0" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="958ef674-66ec-d208-1112-5c62ffbba16b" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="0294c6d8-bdc1-401f-bea1-5d5a52972f7b" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="53ed8826-71d6-452a-b9e5-faef35da8628" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="3a5f27e8-2bb7-a1aa-210d-646fa48a1a98" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="fd3534f5-99b9-cae1-a458-ecf9f3be5a3c" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="25469b00-aa46-470d-aa76-f6c3ece35e17" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="975c594c-2382-93a0-377a-847775be6c5b" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="ca9ff65f-b16d-690a-22c5-6c3c31d8e597" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="78a84dd9-de34-c4c7-47a5-e47bd080ebb1" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="ba43959a-490b-0846-6630-56a90568b651" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="260d1263-4650-51f8-38dc-614f6c9536ed" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="0e8fce66-abd2-486c-b0c7-40e8fe71c236" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="e4a5c8ca-7f04-23ab-8115-18161eb702bf" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="c22c52be-7a44-1f58-f058-3b359421db05" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="ba1c5d97-0948-4758-ac94-beebe49c7a8a" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="b88cca34-574b-441e-8178-f4c8af19ee63" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="d12a43af-5755-4ce3-8477-a8ae332d0277" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="9fe8c654-be28-4deb-bd74-4478c35c0e13" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="425f2176-2e3c-4c40-96c3-99ae7b67dbd9" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="502dca6f-6e19-4ac4-b13e-5bd53d3fe4aa" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="54afc9c4-fb0d-3546-1465-4c6b3a0d4d1c" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="4d23677f-beef-4a9e-87ac-c885e1be39a4" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="ee548d3c-db90-4267-98e3-a572d01d88c4" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="046aafd8-ba66-4b37-adfb-519c1a5d04d7" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="85f7620b-aae3-49a3-8021-044a07703210" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="1231ac4e-6104-4fff-ad19-43f649ba48e1" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="2cfb3f9d-a527-45ce-b809-bb366c7c788f" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="4f8949e8-aec9-468c-89cf-da213f8eb754" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="634f74dd-0a78-e5d5-d396-41cda916643f" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="c7febaba-afa1-4699-88b7-a8d4cea0dc75" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="6ad8b4b4-8379-4ae9-b0e7-5ea6ffb4fd19" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="23fd9162-a6c2-b4a7-9400-013b6ed3a0ac" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="947ff25c-956b-400b-88aa-379e0a72411d" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="db07c22c-8935-3848-2366-7827b70c6030" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="c03acb8a-03b9-4c79-84ff-3784e97774da" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="a17f9b56-aa1b-4fd9-9c48-aef09d2f34a5" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="627f624f-e2b8-4b37-977e-03044e500fec" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="aecafdcf-3362-0cd4-581d-d1e1626824a6" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="347e1943-bf2e-43f2-8311-aecc43b24c39" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="1a0010f4-382d-4f64-b732-64df795f7d31" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="bec8c59f-7ae9-478d-9a9e-f49d22aa520f" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="5931104d-4aa9-21d5-765b-6d334c70f423" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="4d50be50-288d-4da4-9c9c-358e8668af84" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="063bd8ca-418b-4a5d-896b-370837706094" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="e844229e-b744-4294-9102-a7362a926f71" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="55d1beb8-ba7b-4197-b16d-98d058e96e0f" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="01f15813-ccc4-4e56-9e8a-1ace88b97a13" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="244a4c62-4587-f828-4732-c106db4ec980" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="794c3076-8c6b-712f-ffc6-cb726f84e4f1" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="6aaa43a9-3a72-e82e-a6f6-8c367fd82117" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="d1ba8097-dba1-d74b-7efe-8fca3ef71fe5" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="a38e646c-013d-129b-1520-a74315af869a" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="54c86ae0-ebac-4dd8-bd90-e84189244286" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="c0eeeddf-6be7-4b61-9a68-0b2c82d1887f" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="7f897ce0-350a-c464-17e0-8c6a6a0b973e" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="1900e671-bb23-4ccd-b7bb-5e18a8628026" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="eb1dcaf0-5c53-47f8-a787-c4fca0f46fee" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="7d5945a5-ccb1-471e-89d4-5f81189d1b77" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="4dfe4bfe-2f7c-772f-9ce9-a83052a39ad2" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="3d5646b2-245a-4201-88be-d107c6a45f97" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="ef2ebc20-7d81-4f17-a4b6-02070169385e" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="3cdec0ff-5d98-e859-87cd-c663b7b9fcfe" type="22" />
+            </node>
+            <node id="Module">
+              <attribute id="UUID" value="9691a30c-c822-e0c3-c365-2619662ac3e1" type="22" />
+            </node>
+          </children>
+        </node>
+        <node id="Mods">
+          <children>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="DivinityOrigins_1301db3d-1f54-4e98-9be5-5094030916e4" type="30" />
+              <attribute id="MD5" value="73d13f95607b70c953cc32e56d62b7d7" type="23" />
+              <attribute id="Name" value="Divinity: Original Sin 2" type="22" />
+              <attribute id="UUID" value="1301db3d-1f54-4e98-9be5-5094030916e4" type="22" />
+              <attribute id="Version" value="373234071" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="DoubleStats_39dbf31c-2218-4e1a-99f8-23fefd5d1ff0" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="DoubleStats" type="22" />
+              <attribute id="UUID" value="39dbf31c-2218-4e1a-99f8-23fefd5d1ff0" type="22" />
+              <attribute id="Version" value="268435456" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="PartySizeEvolved_01888044-40fa-4250-8934-add840ac23b7" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="Party Size Evolved" type="22" />
+              <attribute id="UUID" value="01888044-40fa-4250-8934-add840ac23b7" type="22" />
+              <attribute id="Version" value="318898176" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="LeaderLib_543d653f-446c-43d8-8916-54670ce24dd9" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="LeaderLib - Definitive Edition" type="22" />
+              <attribute id="UUID" value="7e737d2f-31d2-4751-963f-be6ccc59cd0c" type="22" />
+              <attribute id="Version" value="387514371" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="OdinCore_4bcb0f56-d4dd-4241-9285-0f5710913edb" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="OdinCore - Mod Services" type="22" />
+              <attribute id="UUID" value="4bcb0f56-d4dd-4241-9285-0f5710913edb" type="22" />
+              <attribute id="Version" value="318767104" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="Helaene_Blacksmith_faac3525-c5b3-580d-6ef2-ed9797f68fb0" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="Helaene - Blacksmith Class (DE)" type="22" />
+              <attribute id="UUID" value="faac3525-c5b3-580d-6ef2-ed9797f68fb0" type="22" />
+              <attribute id="Version" value="318767104" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="Helaene_Cryomancer_958ef674-66ec-d208-1112-5c62ffbba16b" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="Helaene - Cryomancer Class (DE)" type="22" />
+              <attribute id="UUID" value="958ef674-66ec-d208-1112-5c62ffbba16b" type="22" />
+              <attribute id="Version" value="587268096" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="Helaene_Ranger_0294c6d8-bdc1-401f-bea1-5d5a52972f7b" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="Helaene - Extra Ranger Skills (DE)" type="22" />
+              <attribute id="UUID" value="0294c6d8-bdc1-401f-bea1-5d5a52972f7b" type="22" />
+              <attribute id="Version" value="301989888" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="Helaene_Class_Marauder_53ed8826-71d6-452a-b9e5-faef35da8628" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="Helaene - Marauder Class (DE)" type="22" />
+              <attribute id="UUID" value="53ed8826-71d6-452a-b9e5-faef35da8628" type="22" />
+              <attribute id="Version" value="50593792" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="Helaene_Mirage_Class_3a5f27e8-2bb7-a1aa-210d-646fa48a1a98" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="Helaene - Mirage Class (DE)" type="22" />
+              <attribute id="UUID" value="3a5f27e8-2bb7-a1aa-210d-646fa48a1a98" type="22" />
+              <attribute id="Version" value="570425344" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="Helaene_Priest_Class_fd3534f5-99b9-cae1-a458-ecf9f3be5a3c" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="Helaene - Priest Class (DE)" type="22" />
+              <attribute id="UUID" value="fd3534f5-99b9-cae1-a458-ecf9f3be5a3c" type="22" />
+              <attribute id="Version" value="570556416" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="Helaene_Shared_25469b00-aa46-470d-aa76-f6c3ece35e17" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="Helaene - Shared Library" type="22" />
+              <attribute id="UUID" value="25469b00-aa46-470d-aa76-f6c3ece35e17" type="22" />
+              <attribute id="Version" value="335544320" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="Helaene_Succubus_975c594c-2382-93a0-377a-847775be6c5b" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="Helaene - Succubus Class (DE)" type="22" />
+              <attribute id="UUID" value="975c594c-2382-93a0-377a-847775be6c5b" type="22" />
+              <attribute id="Version" value="570490880" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="Helaene_Trickster_ca9ff65f-b16d-690a-22c5-6c3c31d8e597" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="Helaene - Trickster Class (DE)" type="22" />
+              <attribute id="UUID" value="ca9ff65f-b16d-690a-22c5-6c3c31d8e597" type="22" />
+              <attribute id="Version" value="570556416" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="Helaene_Valkyrie_78a84dd9-de34-c4c7-47a5-e47bd080ebb1" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="Helaene - Valkyrie Class (DE)" type="22" />
+              <attribute id="UUID" value="78a84dd9-de34-c4c7-47a5-e47bd080ebb1" type="22" />
+              <attribute id="Version" value="570621952" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="Helaene_Vampire_ba43959a-490b-0846-6630-56a90568b651" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="Helaene - Vampire Class (DE)" type="22" />
+              <attribute id="UUID" value="ba43959a-490b-0846-6630-56a90568b651" type="22" />
+              <attribute id="Version" value="570425344" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="Helaene_Wyldfae_Class_260d1263-4650-51f8-38dc-614f6c9536ed" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="Helaene - Wyldfae Class (DE)" type="22" />
+              <attribute id="UUID" value="260d1263-4650-51f8-38dc-614f6c9536ed" type="22" />
+              <attribute id="Version" value="570425344" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="OdinbladeBetterSummonScaling_0e8fce66-abd2-486c-b0c7-40e8fe71c236" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="Odinblade's Enhanced Summon Scaling" type="22" />
+              <attribute id="UUID" value="0e8fce66-abd2-486c-b0c7-40e8fe71c236" type="22" />
+              <attribute id="Version" value="285343744" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="OdinbladeSpectreClass_a8aa3beb-796b-4dce-b661-755a55ed23a7" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="Odinblade's Spectre Class: Definitive Edition" type="22" />
+              <attribute id="UUID" value="e4a5c8ca-7f04-23ab-8115-18161eb702bf" type="22" />
+              <attribute id="Version" value="285474816" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="OdinbladeShadowstepClass_465f4a48-941e-4bd9-8437-e120c1f32356" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="Odinblade's Umbra Class: Definitive Edition" type="22" />
+              <attribute id="UUID" value="c22c52be-7a44-1f58-f058-3b359421db05" type="22" />
+              <attribute id="Version" value="302186496" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="CombinedIconAtlases_ba1c5d97-0948-4758-ac94-beebe49c7a8a" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="Combined Icon Atlases - Larian Icons" type="22" />
+              <attribute id="UUID" value="ba1c5d97-0948-4758-ac94-beebe49c7a8a" type="22" />
+              <attribute id="Version" value="268697602" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="ArmorProgressionVariety_b88cca34-574b-441e-8178-f4c8af19ee63" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="Armor Progression Visual Variety" type="22" />
+              <attribute id="UUID" value="b88cca34-574b-441e-8178-f4c8af19ee63" type="22" />
+              <attribute id="Version" value="268435456" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="AssaultHandcannon_d12a43af-5755-4ce3-8477-a8ae332d0277" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="Assault Handcannon" type="22" />
+              <attribute id="UUID" value="d12a43af-5755-4ce3-8477-a8ae332d0277" type="22" />
+              <attribute id="Version" value="268435456" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="Bless-Curse_9fe8c654-be28-4deb-bd74-4478c35c0e13" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="Bless-Curse" type="22" />
+              <attribute id="UUID" value="9fe8c654-be28-4deb-bd74-4478c35c0e13" type="22" />
+              <attribute id="Version" value="268435456" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="CoreGameRebalance_425f2176-2e3c-4c40-96c3-99ae7b67dbd9" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="Core Game Rebalance" type="22" />
+              <attribute id="UUID" value="425f2176-2e3c-4c40-96c3-99ae7b67dbd9" type="22" />
+              <attribute id="Version" value="268500995" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="InitiativeFix_502dca6f-6e19-4ac4-b13e-5bd53d3fe4aa" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="D20 Based Initiative" type="22" />
+              <attribute id="UUID" value="502dca6f-6e19-4ac4-b13e-5bd53d3fe4aa" type="22" />
+              <attribute id="Version" value="268435456" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="MoreTalents_54afc9c4-fb0d-3546-1465-4c6b3a0d4d1c" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="Divine Talent Pack (DE)" type="22" />
+              <attribute id="UUID" value="54afc9c4-fb0d-3546-1465-4c6b3a0d4d1c" type="22" />
+              <attribute id="Version" value="268500992" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="lx_dye_4d23677f-beef-4a9e-87ac-c885e1be39a4" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="Dye Already" type="22" />
+              <attribute id="UUID" value="4d23677f-beef-4a9e-87ac-c885e1be39a4" type="22" />
+              <attribute id="Version" value="268566531" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="EnemyPowerUnleashed_ee548d3c-db90-4267-98e3-a572d01d88c4" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="Enemy Power Unleashed" type="22" />
+              <attribute id="UUID" value="ee548d3c-db90-4267-98e3-a572d01d88c4" type="22" />
+              <attribute id="Version" value="268566533" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="EnemyUpgradeOverhaul_046aafd8-ba66-4b37-adfb-519c1a5d04d7" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="Enemy Upgrade Overhaul" type="22" />
+              <attribute id="UUID" value="046aafd8-ba66-4b37-adfb-519c1a5d04d7" type="22" />
+              <attribute id="Version" value="302055424" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="AdditionalItemAffixes_85f7620b-aae3-49a3-8021-044a07703210" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="Expanded Random Item Generation" type="22" />
+              <attribute id="UUID" value="85f7620b-aae3-49a3-8021-044a07703210" type="22" />
+              <attribute id="Version" value="268435456" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="DarkBeginning_1231ac4e-6104-4fff-ad19-43f649ba48e1" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="Fort Joy - A Dark Beginning [DE]" type="22" />
+              <attribute id="UUID" value="1231ac4e-6104-4fff-ad19-43f649ba48e1" type="22" />
+              <attribute id="Version" value="268435459" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="GG_CloisterwoodCCm_2cfb3f9d-a527-45ce-b809-bb366c7c788f" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="GG_CloisterwoodCCm" type="22" />
+              <attribute id="UUID" value="2cfb3f9d-a527-45ce-b809-bb366c7c788f" type="22" />
+              <attribute id="Version" value="268435456" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="Menu_Mod_4f8949e8-aec9-468c-89cf-da213f8eb754" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="God King Menu" type="22" />
+              <attribute id="UUID" value="4f8949e8-aec9-468c-89cf-da213f8eb754" type="22" />
+              <attribute id="Version" value="268435456" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="NewSkillCombos_634f74dd-0a78-e5d5-d396-41cda916643f" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="Hybrid Spells Expanded- Definitive Edition" type="22" />
+              <attribute id="UUID" value="634f74dd-0a78-e5d5-d396-41cda916643f" type="22" />
+              <attribute id="Version" value="352452609" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="HybridSkillsBalancePatch_c7febaba-afa1-4699-88b7-a8d4cea0dc75" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="HybridSkillsBalancePatch" type="22" />
+              <attribute id="UUID" value="c7febaba-afa1-4699-88b7-a8d4cea0dc75" type="22" />
+              <attribute id="Version" value="268435456" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="InitiativeTurnOrder_6ad8b4b4-8379-4ae9-b0e7-5ea6ffb4fd19" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="Initiative-Based Turn Order" type="22" />
+              <attribute id="UUID" value="6ad8b4b4-8379-4ae9-b0e7-5ea6ffb4fd19" type="22" />
+              <attribute id="Version" value="268500992" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="UniqueUniques_0704caa9-49c2-479e-9877-97da52fe12d2" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="Interesting Uniques (Definitive Edition)" type="22" />
+              <attribute id="UUID" value="23fd9162-a6c2-b4a7-9400-013b6ed3a0ac" type="22" />
+              <attribute id="Version" value="268435456" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="PlayerChestFixer_947ff25c-956b-400b-88aa-379e0a72411d" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="Lady Vengeance Storage Chest Fixer" type="22" />
+              <attribute id="UUID" value="947ff25c-956b-400b-88aa-379e0a72411d" type="22" />
+              <attribute id="Version" value="268763137" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="LadyC_MoreCharacterColors_dcdfeaf4-8f2d-4aca-80ab-5aa70747d2b2" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="LadyC - More Character Colors [DE]" type="22" />
+              <attribute id="UUID" value="db07c22c-8935-3848-2366-7827b70c6030" type="22" />
+              <attribute id="Version" value="285278208" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="LetThereBeTooltips_c03acb8a-03b9-4c79-84ff-3784e97774da" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="Let There Be Tooltips! - Definitive Edition" type="22" />
+              <attribute id="UUID" value="c03acb8a-03b9-4c79-84ff-3784e97774da" type="22" />
+              <attribute id="Version" value="402653184" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="Blue_LoadingScreenReplacer_a17f9b56-aa1b-4fd9-9c48-aef09d2f34a5" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="Loading Screen Replacer" type="22" />
+              <attribute id="UUID" value="a17f9b56-aa1b-4fd9-9c48-aef09d2f34a5" type="22" />
+              <attribute id="Version" value="285212672" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="MAJORAS_CCP_DE_627f624f-e2b8-4b37-977e-03044e500fec" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="Majoras - Character Creation Plus - Definitive Edition" type="22" />
+              <attribute id="UUID" value="627f624f-e2b8-4b37-977e-03044e500fec" type="22" />
+              <attribute id="Version" value="838991878" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="RecipeUnlocker_aecafdcf-3362-0cd4-581d-d1e1626824a6" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="Recipe Unlocker - Definitive Edition" type="22" />
+              <attribute id="UUID" value="aecafdcf-3362-0cd4-581d-d1e1626824a6" type="22" />
+              <attribute id="Version" value="285212672" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="ResurrectAnythingWithoutRemovingDialogs_347e1943-bf2e-43f2-8311-aecc43b24c39" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="Resurrect Anything Without Removing Dialogs" type="22" />
+              <attribute id="UUID" value="347e1943-bf2e-43f2-8311-aecc43b24c39" type="22" />
+              <attribute id="Version" value="268435457" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="ScatteredRelics_1a0010f4-382d-4f64-b732-64df795f7d31" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="Scattered Relics" type="22" />
+              <attribute id="UUID" value="1a0010f4-382d-4f64-b732-64df795f7d31" type="22" />
+              <attribute id="Version" value="268435456" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="SorcerousSundriesFixed_bec8c59f-7ae9-478d-9a9e-f49d22aa520f" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="Sourcerous Sundries Fixed" type="22" />
+              <attribute id="UUID" value="bec8c59f-7ae9-478d-9a9e-f49d22aa520f" type="22" />
+              <attribute id="Version" value="268435456" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="FriendsForever_Story_5931104d-4aa9-21d5-765b-6d334c70f423" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="Summon Rework Core" type="22" />
+              <attribute id="UUID" value="5931104d-4aa9-21d5-765b-6d334c70f423" type="22" />
+              <attribute id="Version" value="906231808" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="David_Test_4d50be50-288d-4da4-9c9c-358e8668af84" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="Tactician Class Mod" type="22" />
+              <attribute id="UUID" value="4d50be50-288d-4da4-9c9c-358e8668af84" type="22" />
+              <attribute id="Version" value="268435456" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="VanityReboot_063bd8ca-418b-4a5d-896b-370837706094" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="VanityReboot" type="22" />
+              <attribute id="UUID" value="063bd8ca-418b-4a5d-896b-370837706094" type="22" />
+              <attribute id="Version" value="268435456" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="Kalavinkas_Combat_Enhanced_e844229e-b744-4294-9102-a7362a926f71" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="W1. Divinity Unleashed" type="22" />
+              <attribute id="UUID" value="e844229e-b744-4294-9102-a7362a926f71" type="22" />
+              <attribute id="Version" value="570556420" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="Tougher_Bosses_55d1beb8-ba7b-4197-b16d-98d058e96e0f" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="W2 Tougher Bosses 2x [DE]" type="22" />
+              <attribute id="UUID" value="55d1beb8-ba7b-4197-b16d-98d058e96e0f" type="22" />
+              <attribute id="Version" value="268435456" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="RivellonUnleveled_01f15813-ccc4-4e56-9e8a-1ace88b97a13" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="1Rivellon Unleveled" type="22" />
+              <attribute id="UUID" value="01f15813-ccc4-4e56-9e8a-1ace88b97a13" type="22" />
+              <attribute id="Version" value="268435456" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="Chronomancer_244a4c62-4587-f828-4732-c106db4ec980" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="Chronomancer Class Definitive Edition " type="22" />
+              <attribute id="UUID" value="244a4c62-4587-f828-4732-c106db4ec980" type="22" />
+              <attribute id="Version" value="16842752" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="CelestialWizard_794c3076-8c6b-712f-ffc6-cb726f84e4f1" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="Constellationist Class Definitive Edition" type="22" />
+              <attribute id="UUID" value="794c3076-8c6b-712f-ffc6-cb726f84e4f1" type="22" />
+              <attribute id="Version" value="0" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="Crafting_Overhaul_6aaa43a9-3a72-e82e-a6f6-8c367fd82117" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="Crafting Overhaul [DE]" type="22" />
+              <attribute id="UUID" value="6aaa43a9-3a72-e82e-a6f6-8c367fd82117" type="22" />
+              <attribute id="Version" value="268828672" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="GreedMod_fa6acea7-9fd1-4ba7-9a8b-9f1566b8195a" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="Greed - Increased Loot Variety" type="22" />
+              <attribute id="UUID" value="d1ba8097-dba1-d74b-7efe-8fca3ef71fe5" type="22" />
+              <attribute id="Version" value="268500994" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="Berserker_a38e646c-013d-129b-1520-a74315af869a" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="Heaphaistos's Berserker Class" type="22" />
+              <attribute id="UUID" value="a38e646c-013d-129b-1520-a74315af869a" type="22" />
+              <attribute id="Version" value="1" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="InfiniteSpiritVision_54c86ae0-ebac-4dd8-bd90-e84189244286" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="Infinite Spirit Vision - Definitive Edition" type="22" />
+              <attribute id="UUID" value="54c86ae0-ebac-4dd8-bd90-e84189244286" type="22" />
+              <attribute id="Version" value="268435456" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="LadyC_FreePetPal_c0eeeddf-6be7-4b61-9a68-0b2c82d1887f" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="LadyC - Free Pet Pal [DE]" type="22" />
+              <attribute id="UUID" value="c0eeeddf-6be7-4b61-9a68-0b2c82d1887f" type="22" />
+              <attribute id="Version" value="285278208" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="LadyC_LevelUpAllEquipment_1cb69965-4b7a-4b00-a447-044b3546ccb1" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="LadyC - Level Up All Equipment - Including Uniques [Definitive Edition]" type="22" />
+              <attribute id="UUID" value="7f897ce0-350a-c464-17e0-8c6a6a0b973e" type="22" />
+              <attribute id="Version" value="302120960" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="LadyC_RevivePets_1900e671-bb23-4ccd-b7bb-5e18a8628026" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="LadyC - Pet Revival [Definitive Edition]" type="22" />
+              <attribute id="UUID" value="1900e671-bb23-4ccd-b7bb-5e18a8628026" type="22" />
+              <attribute id="Version" value="385875968" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="OrganizedContainersDE_eb1dcaf0-5c53-47f8-a787-c4fca0f46fee" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="Organized Containers - DE" type="22" />
+              <attribute id="UUID" value="eb1dcaf0-5c53-47f8-a787-c4fca0f46fee" type="22" />
+              <attribute id="Version" value="268435464" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="RecruitClassMods_7d5945a5-ccb1-471e-89d4-5f81189d1b77" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="Recruit Companions with Class Mods" type="22" />
+              <attribute id="UUID" value="7d5945a5-ccb1-471e-89d4-5f81189d1b77" type="22" />
+              <attribute id="Version" value="318832640" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="Rendal_ItemVisuals_4dfe4bfe-2f7c-772f-9ce9-a83052a39ad2" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="Rendal's NPC Armors and Weapons - Definitive Edition" type="22" />
+              <attribute id="UUID" value="4dfe4bfe-2f7c-772f-9ce9-a83052a39ad2" type="22" />
+              <attribute id="Version" value="369098752" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="RestingRestoresSource_3d5646b2-245a-4201-88be-d107c6a45f97" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="Resting Restores Source - DE" type="22" />
+              <attribute id="UUID" value="3d5646b2-245a-4201-88be-d107c6a45f97" type="22" />
+              <attribute id="Version" value="268435460" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="Rest-urrect_ef2ebc20-7d81-4f17-a4b6-02070169385e" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="Rest-urrect - DEFINITIVE" type="22" />
+              <attribute id="UUID" value="ef2ebc20-7d81-4f17-a4b6-02070169385e" type="22" />
+              <attribute id="Version" value="268500992" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="ToggleSprintDefinitiveEdition_4dbc489b-f5cb-40c2-bc9c-ac4f6fb20fad" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="Toggle Sprint - Definitive Edition" type="22" />
+              <attribute id="UUID" value="3cdec0ff-5d98-e859-87cd-c663b7b9fcfe" type="22" />
+              <attribute id="Version" value="318832640" type="4" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="Astronomer_9691a30c-c822-e0c3-c365-2619662ac3e1" type="30" />
+              <attribute id="MD5" value="" type="23" />
+              <attribute id="Name" value="Astronomer Class Definitive Edition" type="22" />
+              <attribute id="UUID" value="9691a30c-c822-e0c3-c365-2619662ac3e1" type="22" />
+              <attribute id="Version" value="16777216" type="4" />
+            </node>
+          </children>
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

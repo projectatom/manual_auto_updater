@@ -1,0 +1,19 @@
+{
+  "updates": [
+    {
+      "removes": [
+        "./mods/per_viam_invenire-1.18.2-0.1.48-RELEASE-universal.jar",
+        "./mods/betterfoliage-3.1.1.jar",
+        "./mods/firmalife-1.0.1-alpha.jar"
+      ],
+      "adds": [
+        {
+          "name": "./mods/firmalife-1.0.3-alpha.jar",
+          "url": "https://github.com/eerussianguy/firmalife/releases/download/v1.0.3-alpha/firmalife-1.0.3-alpha.jar"
+        }
+      ],
+      "from": "no_version",
+      "to": "0.1"
+    }
+  ]
+}
