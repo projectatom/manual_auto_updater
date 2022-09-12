@@ -15,34 +15,10 @@ namespace ManualAutoUpdater {
 		private const string UpdatesUrl = "https://raw.githubusercontent.com/projectatom/manual_auto_updater/divinity/updates.json";
 
 		private static readonly string ProfilesPath = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments) +
-		                                               "/Larian Studios/Divinity Original Sin 2 Definitive Edition/PlayerProfiles/";
+		                                              "/Larian Studios/Divinity Original Sin 2 Definitive Edition/PlayerProfiles/";
 
 		private static readonly string ModsPath = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments) +
-		                                               "/Larian Studios/Divinity Original Sin 2 Definitive Edition/Mods/";
-
-		private static string ReplaceVariables(string str) {
-			if (str.Contains("%DivinityProfile%")) {
-				var folder = Path.GetDirectoryName(ProfilesPath);
-				if (!Directory.Exists(folder)) throw new Exception("Запусти Дивинити хотя бы один раз и создай там профиль.");
-
-				var profileNames = Directory.EnumerateDirectories(folder).Select(path => Path.GetFileName(path)).ToArray();
-				if (!profileNames.Any()) throw new Exception("Запусти Дивинити хотя бы один раз и создай там профиль.");
-
-				var profileNamesWithoutDebug = profileNames.Where(profName => !profName.Contains("Debug")).ToArray();
-
-				var profileName = profileNamesWithoutDebug.Any() ? profileNamesWithoutDebug[0] : profileNames[0];
-
-				str = Path.GetFullPath(str.Replace("%DivinityProfile%", $@"{ProfilesPath}/{profileName}/"));
-			}
-
-			if (str.Contains("%DivinityMods%")) {
-				Directory.CreateDirectory(ModsPath);
-
-				str = Path.GetFullPath(str.Replace("%DivinityMods%", $@"{ModsPath}/"));
-			}
-
-			return str;
-		}
+		                                          "/Larian Studios/Divinity Original Sin 2 Definitive Edition/Mods/";
 
 		private static void Main() {
 			Console.OutputEncoding = Encoding.UTF8;
@@ -66,7 +42,9 @@ namespace ManualAutoUpdater {
 				hasUpdates = true;
 
 				foreach (var remove in update.Removes) {
-					var removeFile = new FileWithUrl { Name = remove };
+					var removeFile = new FileWithUrl {
+						Name = remove
+					};
 					if (!preparedDownloads.Remove(removeFile)) preparedRemovals.Add(remove);
 				}
 
@@ -88,6 +66,30 @@ namespace ManualAutoUpdater {
 			Console.WriteLine(hasUpdates ? $"Обновлено до версии {version}" : $"Текущая версия {version}, обновлений не найдено");
 			Console.WriteLine("Для продолжения нажмите любую клавишу...");
 			Console.ReadKey();
+		}
+
+		private static string ReplaceVariables(string str) {
+			if (str.Contains("%DivinityProfile%")) {
+				var folder = Path.GetDirectoryName(ProfilesPath);
+				if (!Directory.Exists(folder)) throw new Exception("Запусти Дивинити хотя бы один раз и создай там профиль.");
+
+				var profileNames = Directory.EnumerateDirectories(folder).Select(path => Path.GetFileName(path)).ToArray();
+				if (!profileNames.Any()) throw new Exception("Запусти Дивинити хотя бы один раз и создай там профиль.");
+
+				var profileNamesWithoutDebug = profileNames.Where(profName => !profName.Contains("Debug")).ToArray();
+
+				var profileName = profileNamesWithoutDebug.Any() ? profileNamesWithoutDebug[0] : profileNames[0];
+
+				str = Path.GetFullPath(str.Replace("%DivinityProfile%", $@"{ProfilesPath}/{profileName}/"));
+			}
+
+			if (str.Contains("%DivinityMods%")) {
+				Directory.CreateDirectory(ModsPath);
+
+				str = Path.GetFullPath(str.Replace("%DivinityMods%", $@"{ModsPath}/"));
+			}
+
+			return str;
 		}
 
 		public static void DownloadFile(string url, string fileName) {
@@ -127,8 +129,4 @@ namespace ManualAutoUpdater {
 			return obj != null && obj.GetType() == typeof(FileWithUrl) && Name.Equals(((FileWithUrl) obj).Name);
 		}
 	}
-
-	// internal enum Type {
-	// 	Basic, Profile		
-	// }
 }
