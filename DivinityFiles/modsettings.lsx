@@ -134,9 +134,6 @@
               <attribute id="UUID" value="a17f9b56-aa1b-4fd9-9c48-aef09d2f34a5" type="22" />
             </node>
             <node id="Module">
-              <attribute id="UUID" value="627f624f-e2b8-4b37-977e-03044e500fec" type="22" />
-            </node>
-            <node id="Module">
               <attribute id="UUID" value="aecafdcf-3362-0cd4-581d-d1e1626824a6" type="22" />
             </node>
             <node id="Module">
@@ -511,13 +508,6 @@
               <attribute id="Name" value="Loading Screen Replacer" type="22" />
               <attribute id="UUID" value="a17f9b56-aa1b-4fd9-9c48-aef09d2f34a5" type="22" />
               <attribute id="Version" value="285212672" type="4" />
-            </node>
-            <node id="ModuleShortDesc">
-              <attribute id="Folder" value="MAJORAS_CCP_DE_627f624f-e2b8-4b37-977e-03044e500fec" type="30" />
-              <attribute id="MD5" value="" type="23" />
-              <attribute id="Name" value="Majoras - Character Creation Plus - Definitive Edition" type="22" />
-              <attribute id="UUID" value="627f624f-e2b8-4b37-977e-03044e500fec" type="22" />
-              <attribute id="Version" value="838991878" type="4" />
             </node>
             <node id="ModuleShortDesc">
               <attribute id="Folder" value="RecipeUnlocker_aecafdcf-3362-0cd4-581d-d1e1626824a6" type="30" />

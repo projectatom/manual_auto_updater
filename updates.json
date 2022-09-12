@@ -8,8 +8,284 @@
           "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityFiles/DXGI.dll"
         },
         {
-          "name": "%ProfilesFolder%/modsettings.lsx",
+          "name": "%DivinityProfile%/modsettings.lsx",
           "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityFiles/modsettings.lsx"
+        },
+        {
+          "name": "%DivinityMods%/AdditionalItemAffixes_85f7620b-aae3-49a3-8021-044a07703210.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/AdditionalItemAffixes_85f7620b-aae3-49a3-8021-044a07703210.pak"
+        },
+        {
+          "name": "%DivinityMods%/ArmorProgressionVariety_b88cca34-574b-441e-8178-f4c8af19ee63.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/ArmorProgressionVariety_b88cca34-574b-441e-8178-f4c8af19ee63.pak"
+        },
+        {
+          "name": "%DivinityMods%/AssaultHandcannon_d12a43af-5755-4ce3-8477-a8ae332d0277.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/AssaultHandcannon_d12a43af-5755-4ce3-8477-a8ae332d0277.pak"
+        },
+        {
+          "name": "%DivinityMods%/Astronomer_9691a30c-c822-e0c3-c365-2619662ac3e1.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/Astronomer_9691a30c-c822-e0c3-c365-2619662ac3e1.pak"
+        },
+        {
+          "name": "%DivinityMods%/Berserker_a38e646c-013d-129b-1520-a74315af869a.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/Berserker_a38e646c-013d-129b-1520-a74315af869a.pak"
+        },
+        {
+          "name": "%DivinityMods%/Bless-Curse_9fe8c654-be28-4deb-bd74-4478c35c0e13.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/Bless-Curse_9fe8c654-be28-4deb-bd74-4478c35c0e13.pak"
+        },
+        {
+          "name": "%DivinityMods%/Blue_LoadingScreenReplacer_a17f9b56-aa1b-4fd9-9c48-aef09d2f34a5.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/Blue_LoadingScreenReplacer_a17f9b56-aa1b-4fd9-9c48-aef09d2f34a5.pak"
+        },
+        {
+          "name": "%DivinityMods%/CelestialWizard_794c3076-8c6b-712f-ffc6-cb726f84e4f1.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/CelestialWizard_794c3076-8c6b-712f-ffc6-cb726f84e4f1.pak"
+        },
+        {
+          "name": "%DivinityMods%/Chronomancer_244a4c62-4587-f828-4732-c106db4ec980.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/Chronomancer_244a4c62-4587-f828-4732-c106db4ec980.pak"
+        },
+        {
+          "name": "%DivinityMods%/CombinedIconAtlases_ba1c5d97-0948-4758-ac94-beebe49c7a8a.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/CombinedIconAtlases_ba1c5d97-0948-4758-ac94-beebe49c7a8a.pak"
+        },
+        {
+          "name": "%DivinityMods%/CoreGameRebalance_425f2176-2e3c-4c40-96c3-99ae7b67dbd9.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/CoreGameRebalance_425f2176-2e3c-4c40-96c3-99ae7b67dbd9.pak"
+        },
+        {
+          "name": "%DivinityMods%/Crafting_Overhaul_6aaa43a9-3a72-e82e-a6f6-8c367fd82117.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/Crafting_Overhaul_6aaa43a9-3a72-e82e-a6f6-8c367fd82117.pak"
+        },
+        {
+          "name": "%DivinityMods%/DarkBeginning_1231ac4e-6104-4fff-ad19-43f649ba48e1.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/DarkBeginning_1231ac4e-6104-4fff-ad19-43f649ba48e1.pak"
+        },
+        {
+          "name": "%DivinityMods%/David_Test_4d50be50-288d-4da4-9c9c-358e8668af84.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/David_Test_4d50be50-288d-4da4-9c9c-358e8668af84.pak"
+        },
+        {
+          "name": "%DivinityMods%/DoubleStats_39dbf31c-2218-4e1a-99f8-23fefd5d1ff0.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/DoubleStats_39dbf31c-2218-4e1a-99f8-23fefd5d1ff0.pak"
+        },
+        {
+          "name": "%DivinityMods%/EnemyPowerUnleashed_ee548d3c-db90-4267-98e3-a572d01d88c4.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/EnemyPowerUnleashed_ee548d3c-db90-4267-98e3-a572d01d88c4.pak"
+        },
+        {
+          "name": "%DivinityMods%/EnemyUpgradeOverhaul_046aafd8-ba66-4b37-adfb-519c1a5d04d7.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/EnemyUpgradeOverhaul_046aafd8-ba66-4b37-adfb-519c1a5d04d7.pak"
+        },
+        {
+          "name": "%DivinityMods%/FriendsForever_Story_5931104d-4aa9-21d5-765b-6d334c70f423.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/FriendsForever_Story_5931104d-4aa9-21d5-765b-6d334c70f423.pak"
+        },
+        {
+          "name": "%DivinityMods%/GG_CloisterwoodCCm_2cfb3f9d-a527-45ce-b809-bb366c7c788f.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/GG_CloisterwoodCCm_2cfb3f9d-a527-45ce-b809-bb366c7c788f.pak"
+        },
+        {
+          "name": "%DivinityMods%/GreedMod_fa6acea7-9fd1-4ba7-9a8b-9f1566b8195a_d1ba8097-dba1-d74b-7efe-8fca3ef71fe5.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/GreedMod_fa6acea7-9fd1-4ba7-9a8b-9f1566b8195a_d1ba8097-dba1-d74b-7efe-8fca3ef71fe5.pak"
+        },
+        {
+          "name": "%DivinityMods%/Helaene_Blacksmith_faac3525-c5b3-580d-6ef2-ed9797f68fb0.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/Helaene_Blacksmith_faac3525-c5b3-580d-6ef2-ed9797f68fb0.pak"
+        },
+        {
+          "name": "%DivinityMods%/Helaene_Class_Marauder_53ed8826-71d6-452a-b9e5-faef35da8628.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/Helaene_Class_Marauder_53ed8826-71d6-452a-b9e5-faef35da8628.pak"
+        },
+        {
+          "name": "%DivinityMods%/Helaene_Cryomancer_958ef674-66ec-d208-1112-5c62ffbba16b.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/Helaene_Cryomancer_958ef674-66ec-d208-1112-5c62ffbba16b.pak"
+        },
+        {
+          "name": "%DivinityMods%/Helaene_Mirage_Class_3a5f27e8-2bb7-a1aa-210d-646fa48a1a98.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/Helaene_Mirage_Class_3a5f27e8-2bb7-a1aa-210d-646fa48a1a98.pak"
+        },
+        {
+          "name": "%DivinityMods%/Helaene_Priest_Class_fd3534f5-99b9-cae1-a458-ecf9f3be5a3c.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/Helaene_Priest_Class_fd3534f5-99b9-cae1-a458-ecf9f3be5a3c.pak"
+        },
+        {
+          "name": "%DivinityMods%/Helaene_Ranger_0294c6d8-bdc1-401f-bea1-5d5a52972f7b.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/Helaene_Ranger_0294c6d8-bdc1-401f-bea1-5d5a52972f7b.pak"
+        },
+        {
+          "name": "%DivinityMods%/Helaene_Shared_25469b00-aa46-470d-aa76-f6c3ece35e17.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/Helaene_Shared_25469b00-aa46-470d-aa76-f6c3ece35e17.pak"
+        },
+        {
+          "name": "%DivinityMods%/Helaene_Succubus_975c594c-2382-93a0-377a-847775be6c5b.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/Helaene_Succubus_975c594c-2382-93a0-377a-847775be6c5b.pak"
+        },
+        {
+          "name": "%DivinityMods%/Helaene_Trickster_ca9ff65f-b16d-690a-22c5-6c3c31d8e597.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/Helaene_Trickster_ca9ff65f-b16d-690a-22c5-6c3c31d8e597.pak"
+        },
+        {
+          "name": "%DivinityMods%/Helaene_Valkyrie_78a84dd9-de34-c4c7-47a5-e47bd080ebb1.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/Helaene_Valkyrie_78a84dd9-de34-c4c7-47a5-e47bd080ebb1.pak"
+        },
+        {
+          "name": "%DivinityMods%/Helaene_Vampire_ba43959a-490b-0846-6630-56a90568b651.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/Helaene_Vampire_ba43959a-490b-0846-6630-56a90568b651.pak"
+        },
+        {
+          "name": "%DivinityMods%/Helaene_Wyldfae_Class_260d1263-4650-51f8-38dc-614f6c9536ed.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/Helaene_Wyldfae_Class_260d1263-4650-51f8-38dc-614f6c9536ed.pak"
+        },
+        {
+          "name": "%DivinityMods%/HybridSkillsBalancePatch_c7febaba-afa1-4699-88b7-a8d4cea0dc75.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/HybridSkillsBalancePatch_c7febaba-afa1-4699-88b7-a8d4cea0dc75.pak"
+        },
+        {
+          "name": "%DivinityMods%/InfiniteSpiritVision_54c86ae0-ebac-4dd8-bd90-e84189244286.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/InfiniteSpiritVision_54c86ae0-ebac-4dd8-bd90-e84189244286.pak"
+        },
+        {
+          "name": "%DivinityMods%/InitiativeFix_502dca6f-6e19-4ac4-b13e-5bd53d3fe4aa.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/InitiativeFix_502dca6f-6e19-4ac4-b13e-5bd53d3fe4aa.pak"
+        },
+        {
+          "name": "%DivinityMods%/InitiativeTurnOrder_6ad8b4b4-8379-4ae9-b0e7-5ea6ffb4fd19.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/InitiativeTurnOrder_6ad8b4b4-8379-4ae9-b0e7-5ea6ffb4fd19.pak"
+        },
+        {
+          "name": "%DivinityMods%/Kalavinkas_Combat_Enhanced_e844229e-b744-4294-9102-a7362a926f71.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/Kalavinkas_Combat_Enhanced_e844229e-b744-4294-9102-a7362a926f71.pak"
+        },
+        {
+          "name": "%DivinityMods%/LadyC_FreePetPal_c0eeeddf-6be7-4b61-9a68-0b2c82d1887f.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/LadyC_FreePetPal_c0eeeddf-6be7-4b61-9a68-0b2c82d1887f.pak"
+        },
+        {
+          "name": "%DivinityMods%/LadyC_LevelUpAllEquipment_1cb69965-4b7a-4b00-a447-044b3546ccb1_7f897ce0-350a-c464-17e0-8c6a6a0b973e.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/LadyC_LevelUpAllEquipment_1cb69965-4b7a-4b00-a447-044b3546ccb1_7f897ce0-350a-c464-17e0-8c6a6a0b973e.pak"
+        },
+        {
+          "name": "%DivinityMods%/LadyC_MoreCharacterColors_dcdfeaf4-8f2d-4aca-80ab-5aa70747d2b2_db07c22c-8935-3848-2366-7827b70c6030.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/LadyC_MoreCharacterColors_dcdfeaf4-8f2d-4aca-80ab-5aa70747d2b2_db07c22c-8935-3848-2366-7827b70c6030.pak"
+        },
+        {
+          "name": "%DivinityMods%/LadyC_RevivePets_1900e671-bb23-4ccd-b7bb-5e18a8628026.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/LadyC_RevivePets_1900e671-bb23-4ccd-b7bb-5e18a8628026.pak"
+        },
+        {
+          "name": "%DivinityMods%/LeaderLib_543d653f-446c-43d8-8916-54670ce24dd9_7e737d2f-31d2-4751-963f-be6ccc59cd0c.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/LeaderLib_543d653f-446c-43d8-8916-54670ce24dd9_7e737d2f-31d2-4751-963f-be6ccc59cd0c.pak"
+        },
+        {
+          "name": "%DivinityMods%/LetThereBeTooltips_c03acb8a-03b9-4c79-84ff-3784e97774da.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/LetThereBeTooltips_c03acb8a-03b9-4c79-84ff-3784e97774da.pak"
+        },
+        {
+          "name": "%DivinityMods%/lx_dye_4d23677f-beef-4a9e-87ac-c885e1be39a4.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/lx_dye_4d23677f-beef-4a9e-87ac-c885e1be39a4.pak"
+        },
+        {
+          "name": "%DivinityMods%/Menu_Mod_4f8949e8-aec9-468c-89cf-da213f8eb754.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/Menu_Mod_4f8949e8-aec9-468c-89cf-da213f8eb754.pak"
+        },
+        {
+          "name": "%DivinityMods%/MoreTalents_54afc9c4-fb0d-3546-1465-4c6b3a0d4d1c.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/MoreTalents_54afc9c4-fb0d-3546-1465-4c6b3a0d4d1c.pak"
+        },
+        {
+          "name": "%DivinityMods%/NewSkillCombos_634f74dd-0a78-e5d5-d396-41cda916643f.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/NewSkillCombos_634f74dd-0a78-e5d5-d396-41cda916643f.pak"
+        },
+        {
+          "name": "%DivinityMods%/OdinbladeBetterSummonScaling_0e8fce66-abd2-486c-b0c7-40e8fe71c236.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/OdinbladeBetterSummonScaling_0e8fce66-abd2-486c-b0c7-40e8fe71c236.pak"
+        },
+        {
+          "name": "%DivinityMods%/OdinbladeShadowstepClass_465f4a48-941e-4bd9-8437-e120c1f32356_c22c52be-7a44-1f58-f058-3b359421db05.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/OdinbladeShadowstepClass_465f4a48-941e-4bd9-8437-e120c1f32356_c22c52be-7a44-1f58-f058-3b359421db05.pak"
+        },
+        {
+          "name": "%DivinityMods%/OdinbladeSpectreClass_a8aa3beb-796b-4dce-b661-755a55ed23a7_e4a5c8ca-7f04-23ab-8115-18161eb702bf.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/OdinbladeSpectreClass_a8aa3beb-796b-4dce-b661-755a55ed23a7_e4a5c8ca-7f04-23ab-8115-18161eb702bf.pak"
+        },
+        {
+          "name": "%DivinityMods%/odincore.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/odincore.pak"
+        },
+        {
+          "name": "%DivinityMods%/OdinCore_4bcb0f56-d4dd-4241-9285-0f5710913edb.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/OdinCore_4bcb0f56-d4dd-4241-9285-0f5710913edb.pak"
+        },
+        {
+          "name": "%DivinityMods%/odinpyro.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/odinpyro.pak"
+        },
+        {
+          "name": "%DivinityMods%/OrganizedContainersDE_eb1dcaf0-5c53-47f8-a787-c4fca0f46fee.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/OrganizedContainersDE_eb1dcaf0-5c53-47f8-a787-c4fca0f46fee.pak"
+        },
+        {
+          "name": "%DivinityMods%/PartySizeEvolved_01888044-40fa-4250-8934-add840ac23b7.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/PartySizeEvolved_01888044-40fa-4250-8934-add840ac23b7.pak"
+        },
+        {
+          "name": "%DivinityMods%/PlayerChestFixer_947ff25c-956b-400b-88aa-379e0a72411d.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/PlayerChestFixer_947ff25c-956b-400b-88aa-379e0a72411d.pak"
+        },
+        {
+          "name": "%DivinityMods%/RecipeUnlocker_aecafdcf-3362-0cd4-581d-d1e1626824a6.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/RecipeUnlocker_aecafdcf-3362-0cd4-581d-d1e1626824a6.pak"
+        },
+        {
+          "name": "%DivinityMods%/RecruitClassMods_7d5945a5-ccb1-471e-89d4-5f81189d1b77.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/RecruitClassMods_7d5945a5-ccb1-471e-89d4-5f81189d1b77.pak"
+        },
+        {
+          "name": "%DivinityMods%/Rendal_ItemVisuals_4dfe4bfe-2f7c-772f-9ce9-a83052a39ad2.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/Rendal_ItemVisuals_4dfe4bfe-2f7c-772f-9ce9-a83052a39ad2.pak"
+        },
+        {
+          "name": "%DivinityMods%/Rest-urrect_ef2ebc20-7d81-4f17-a4b6-02070169385e.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/Rest-urrect_ef2ebc20-7d81-4f17-a4b6-02070169385e.pak"
+        },
+        {
+          "name": "%DivinityMods%/RestingRestoresSource_3d5646b2-245a-4201-88be-d107c6a45f97.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/RestingRestoresSource_3d5646b2-245a-4201-88be-d107c6a45f97.pak"
+        },
+        {
+          "name": "%DivinityMods%/ResurrectAnythingWithoutRemovingDialogs_347e1943-bf2e-43f2-8311-aecc43b24c39.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/ResurrectAnythingWithoutRemovingDialogs_347e1943-bf2e-43f2-8311-aecc43b24c39.pak"
+        },
+        {
+          "name": "%DivinityMods%/RivellonUnleveled_DE_01f15813-ccc4-4e56-9e8a-1ace88b97a13_01f15813-ccc4-4e56-9e8a-1ace88b97a13.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/RivellonUnleveled_DE_01f15813-ccc4-4e56-9e8a-1ace88b97a13_01f15813-ccc4-4e56-9e8a-1ace88b97a13.pak"
+        },
+        {
+          "name": "%DivinityMods%/ScatteredRelics_1a0010f4-382d-4f64-b732-64df795f7d31.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/ScatteredRelics_1a0010f4-382d-4f64-b732-64df795f7d31.pak"
+        },
+        {
+          "name": "%DivinityMods%/SorcerousSundriesFixed_bec8c59f-7ae9-478d-9a9e-f49d22aa520f.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/SorcerousSundriesFixed_bec8c59f-7ae9-478d-9a9e-f49d22aa520f.pak"
+        },
+        {
+          "name": "%DivinityMods%/ToggleSprintDefinitiveEdition_4dbc489b-f5cb-40c2-bc9c-ac4f6fb20fad_3cdec0ff-5d98-e859-87cd-c663b7b9fcfe.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/ToggleSprintDefinitiveEdition_4dbc489b-f5cb-40c2-bc9c-ac4f6fb20fad_3cdec0ff-5d98-e859-87cd-c663b7b9fcfe.pak"
+        },
+        {
+          "name": "%DivinityMods%/tougher bosses2.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/tougher bosses2.pak"
+        },
+        {
+          "name": "%DivinityMods%/UniqueUniques_0704caa9-49c2-479e-9877-97da52fe12d2_23fd9162-a6c2-b4a7-9400-013b6ed3a0ac.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/UniqueUniques_0704caa9-49c2-479e-9877-97da52fe12d2_23fd9162-a6c2-b4a7-9400-013b6ed3a0ac.pak"
+        },
+        {
+          "name": "%DivinityMods%/VanityReboot_063bd8ca-418b-4a5d-896b-370837706094.pak",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityMods/VanityReboot_063bd8ca-418b-4a5d-896b-370837706094.pak"
         }
       ],
       "from": "no_version",
