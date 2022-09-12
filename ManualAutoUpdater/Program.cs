@@ -56,7 +56,16 @@ namespace ManualAutoUpdater {
 				Console.WriteLine($"Обновление с {version} до {lastVersion}");
 
 				foreach (var preparedRemoval in preparedRemovals) RemoveFile(preparedRemoval);
-				foreach (var fileWithUrl in preparedDownloads) DownloadFile(fileWithUrl.Url, fileWithUrl.Name);
+				foreach (var fileWithUrl in preparedDownloads) {
+					DownloadFile(fileWithUrl.Url, fileWithUrl.Name, out var error);
+					if (error == string.Empty) continue;
+
+					Console.WriteLine("ОШИБКА!!!");
+					Console.WriteLine(error);
+					Console.WriteLine("Для продолжения нажмите любую клавишу...");
+					Console.ReadKey();
+					return;
+				}
 
 				version = lastVersion;
 			}
@@ -68,13 +77,20 @@ namespace ManualAutoUpdater {
 			Console.ReadKey();
 		}
 
-		private static string ReplaceVariables(string str) {
+		private static string ReplaceVariables(string str, out string error) {
+			error = string.Empty;
 			if (str.Contains("%DivinityProfile%")) {
 				var folder = Path.GetDirectoryName(ProfilesPath);
-				if (!Directory.Exists(folder)) throw new Exception("Запусти Дивинити хотя бы один раз и создай там профиль.");
+				if (!Directory.Exists(folder)) {
+					error = "Запусти Дивинити хотя бы один раз и создай там профиль.";
+					return str;
+				}
 
 				var profileNames = Directory.EnumerateDirectories(folder).Select(path => Path.GetFileName(path)).ToArray();
-				if (!profileNames.Any()) throw new Exception("Запусти Дивинити хотя бы один раз и создай там профиль.");
+				if (!profileNames.Any()) {
+					error = "Запусти Дивинити хотя бы один раз и создай там профиль.";
+					return str;
+				}
 
 				var profileNamesWithoutDebug = profileNames.Where(profName => !profName.Contains("Debug")).ToArray();
 
@@ -92,9 +108,11 @@ namespace ManualAutoUpdater {
 			return str;
 		}
 
-		public static void DownloadFile(string url, string fileName) {
+		public static void DownloadFile(string url, string fileName, out string error) {
 			Console.WriteLine($"Скачиваю {url}");
-			fileName = ReplaceVariables(fileName);
+			fileName = ReplaceVariables(fileName, out error);
+			if (error != string.Empty) { return; }
+
 			var directoryName = Path.GetDirectoryName(fileName);
 			if (directoryName != null) Directory.CreateDirectory(directoryName);
 			WebClient.DownloadFile(url, fileName);
