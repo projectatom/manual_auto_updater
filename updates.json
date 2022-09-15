@@ -290,6 +290,17 @@
       ],
       "from": "no_version",
       "to": "0.1"
+    },
+    {
+      "removes": [],
+      "adds": [
+        {
+          "name": "%DivinityProfile%/modsettings.lsx",
+          "url": "https://github.com/projectatom/manual_auto_updater/raw/divinity/DivinityFiles/modsettings.lsx"
+        }
+      ],
+      "from": "0.1",
+      "to": "0.2"
     }
   ]
 }

@@ -191,19 +191,10 @@
               <attribute id="UUID" value="1900e671-bb23-4ccd-b7bb-5e18a8628026" type="22" />
             </node>
             <node id="Module">
-              <attribute id="UUID" value="eb1dcaf0-5c53-47f8-a787-c4fca0f46fee" type="22" />
-            </node>
-            <node id="Module">
               <attribute id="UUID" value="7d5945a5-ccb1-471e-89d4-5f81189d1b77" type="22" />
             </node>
             <node id="Module">
               <attribute id="UUID" value="4dfe4bfe-2f7c-772f-9ce9-a83052a39ad2" type="22" />
-            </node>
-            <node id="Module">
-              <attribute id="UUID" value="3d5646b2-245a-4201-88be-d107c6a45f97" type="22" />
-            </node>
-            <node id="Module">
-              <attribute id="UUID" value="ef2ebc20-7d81-4f17-a4b6-02070169385e" type="22" />
             </node>
             <node id="Module">
               <attribute id="UUID" value="3cdec0ff-5d98-e859-87cd-c663b7b9fcfe" type="22" />
@@ -643,13 +634,6 @@
               <attribute id="Version" value="385875968" type="4" />
             </node>
             <node id="ModuleShortDesc">
-              <attribute id="Folder" value="OrganizedContainersDE_eb1dcaf0-5c53-47f8-a787-c4fca0f46fee" type="30" />
-              <attribute id="MD5" value="" type="23" />
-              <attribute id="Name" value="Organized Containers - DE" type="22" />
-              <attribute id="UUID" value="eb1dcaf0-5c53-47f8-a787-c4fca0f46fee" type="22" />
-              <attribute id="Version" value="268435464" type="4" />
-            </node>
-            <node id="ModuleShortDesc">
               <attribute id="Folder" value="RecruitClassMods_7d5945a5-ccb1-471e-89d4-5f81189d1b77" type="30" />
               <attribute id="MD5" value="" type="23" />
               <attribute id="Name" value="Recruit Companions with Class Mods" type="22" />
@@ -662,20 +646,6 @@
               <attribute id="Name" value="Rendal's NPC Armors and Weapons - Definitive Edition" type="22" />
               <attribute id="UUID" value="4dfe4bfe-2f7c-772f-9ce9-a83052a39ad2" type="22" />
               <attribute id="Version" value="369098752" type="4" />
-            </node>
-            <node id="ModuleShortDesc">
-              <attribute id="Folder" value="RestingRestoresSource_3d5646b2-245a-4201-88be-d107c6a45f97" type="30" />
-              <attribute id="MD5" value="" type="23" />
-              <attribute id="Name" value="Resting Restores Source - DE" type="22" />
-              <attribute id="UUID" value="3d5646b2-245a-4201-88be-d107c6a45f97" type="22" />
-              <attribute id="Version" value="268435460" type="4" />
-            </node>
-            <node id="ModuleShortDesc">
-              <attribute id="Folder" value="Rest-urrect_ef2ebc20-7d81-4f17-a4b6-02070169385e" type="30" />
-              <attribute id="MD5" value="" type="23" />
-              <attribute id="Name" value="Rest-urrect - DEFINITIVE" type="22" />
-              <attribute id="UUID" value="ef2ebc20-7d81-4f17-a4b6-02070169385e" type="22" />
-              <attribute id="Version" value="268500992" type="4" />
             </node>
             <node id="ModuleShortDesc">
               <attribute id="Folder" value="ToggleSprintDefinitiveEdition_4dbc489b-f5cb-40c2-bc9c-ac4f6fb20fad" type="30" />
